@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "angular-data-binding"
+		},
+		{
+			"path": "angular-directives"
+		},
+		{
+			"path": "angular-routing"
+		},
+		{
+			"path": "angular-services"
+		},
+		{
+			"path": "angular-observables"
+		},
+		{
+			"path": "angular-forms-template"
+		},
+		{
+			"path": "angular-forms-reactive"
+		},
+		{
+			"path": "angular-pipes"
+		},
+		{
+			"path": "angular-http"
+		},
+		{
+			"path": "angular-animations"
+		},
+		{
+			"path": "angular-testing"
+		},
+		{
+			"path": "course-project-ngRx"
+		},
+		{
+			"path": "my-first-app"
+		},
+		{
+			"path": "opt-mod-feature-module"
+		},
+		{
+			"path": "ng-pwa-start"
+		}
+	],
+	"settings": {}
+}

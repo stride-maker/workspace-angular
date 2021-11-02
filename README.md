@@ -1,0 +1,2 @@
+# workspace-angular
+ angular-module
